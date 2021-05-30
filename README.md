@@ -1,6 +1,6 @@
 # graphQL
 
-# Run the index.js file with command node index.js
+## Run the index.js file with command node index.js
 
 # It will create rollDice collection and will put some random value
 
